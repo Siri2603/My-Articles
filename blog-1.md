@@ -1,5 +1,5 @@
 ![images (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1627721148182/4qC_ggFU0.png)
-<br>
+
 **What is Unix?**
 
 **Unix** is an operating system. It supports multitasking and multi-user functionality. Unix is most widely used in all forms of computing systems such as `desktops, laptops, and servers.`
