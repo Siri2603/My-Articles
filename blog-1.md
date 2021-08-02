@@ -1,4 +1,5 @@
 ![images (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1627721148182/4qC_ggFU0.png)
+<br>
 **What is Unix?**
 
 **Unix** is an operating system. It supports multitasking and multi-user functionality. Unix is most widely used in all forms of computing systems such as `desktops, laptops, and servers.`
@@ -8,7 +9,7 @@
 Here are some common basic shell commands which will be useful for some basic operations:
 
 1. **PWD** - Prints present working directory.  
-    `eg: pwd`
+   `eg: pwd`
 2. **LS** - Lists all files and folders in a directory.
    `eg: ls`
 3. **CD** - Takes an argument about the folder that you want to navigate to.
